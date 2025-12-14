@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "水面にピアノ",
+  "base_artist": "桜内梨子 (CV.逢田梨香子)",
+  "createdAt": "2025-12-14T07:09:31.124192Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "水面にピアノ",
+      "artist": "桜内梨子(CV.逢田梨香子)",
+      "has_synced": true,
+      "path": "select/01_水面にピアノ_桜内梨子(CV.逢田梨香子).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "水面にピアノ",
+      "artist": "桜内梨子 (CV.逢田梨香子)",
+      "has_synced": true,
+      "path": "select/02_水面にピアノ_桜内梨子_(CV.逢田梨香子).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "水面にピアノ",
+      "artist": "桜内梨子 (CV.逢田梨香子) from Aqours",
+      "has_synced": true,
+      "path": "select/03_水面にピアノ_桜内梨子_(CV.逢田梨香子)_from_Aqours.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "水面にピアノ",
+      "artist": "桜内梨子 (CV.逢田梨香子) from Aqours",
+      "has_synced": false,
+      "path": "select/pl_01_水面にピアノ_桜内梨子_(CV.逢田梨香子)_from_Aqours.txt"
+    }
+  ]
+}
